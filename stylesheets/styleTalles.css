@@ -1,0 +1,93 @@
+.caja-talles{
+    display:flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-bottom:40px;
+}
+.caja-talle{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+    height: 100px;
+    background-size: cover;
+    
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.icono-carpeta{
+    font-size: 100px;
+    position:relative;
+}
+.texto-talle{
+    font-size: 16px;
+    position: absolute;
+    color: antiquewhite;
+    top: 30px;
+    LEFT: 17px;
+}
+.M{
+    left: 15px;
+}
+.L{
+    left: 15px;
+}
+.XL{
+    left: 13px;
+}
+.XXL{
+    left:7px;
+}
+.XXXL{
+    left:2px;
+}
+.boton-agregar{
+    font-size: 18px;
+    margin: 0;
+    width: 120px;
+    height: 30px;
+    background-color: rgb(22, 22, 22);
+    text-decoration: none;
+    color:aliceblue;
+    text-align: center;
+    margin: 0px auto;
+    border:none;
+    border-radius: 7px;
+}
+.buzos{
+    padding-left: 7px;
+}
+.sweaters{
+    left:8px;
+}
+.camperas{
+    left:5px;
+}
+.remeras{
+    left:11px;
+}
+.jeans{
+    left:25px;
+}
+.joggers{
+    left:13px;
+}
+.chinos{
+    left:0px;
+    font-size: 17px;
+}
+.camisas{
+    left:13px
+}
+.joggins{
+    left:13px
+}
+.musculosas{
+    font-size: 14px;
+    left: 4px;
+}
+.zapatillas{
+    left:4px;
+}

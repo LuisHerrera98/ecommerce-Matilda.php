@@ -1,0 +1,18 @@
+@media only screen and (max-width: 450px) {
+    .main-final{
+        height: 420px !important;
+    }
+    .div-final{
+        height: 345px !important;
+    }
+
+
+}
+.li-productos a{
+    font-size: cover;
+    font-size:20px !important;
+    padding:1px !important;
+    color:black !important;
+    font-family: 'Acme', sans-serif !important;
+}
+

@@ -1,0 +1,67 @@
+.registro-ventas{
+    position:relative;
+    width: 95%;
+    padding:5px;
+    border:solid 1px black;
+    margin-left: 5px;
+    margin-right: 5px;
+    display:flex;
+    flex-wrap: wrap;
+}
+.img-venta{
+    height: 100%;
+}
+.caja-interior-img{
+    height: 40px;
+}
+.caja-interior p{
+    margin:0;
+    font-size: 15px;
+}
+.caja-interior{
+    height: 20px;
+}
+.caja-interior-precio{
+    height: 24px;
+    position: absolute;
+    right: 2px;
+    top:7px;
+    font-size: 18px;
+    color: rgb(5, 104, 43);
+}
+.caja-interior-precio p{
+    margin:0;
+}
+.caja-interior-talle{
+    height: 24px;
+    position: absolute;
+    right: 64px;
+    top:7px;
+    font-size: 18px;
+    color: rgb(121, 65, 19);
+}
+.caja-interior-talle p{
+    margin:0;
+}
+.caja-interior-nombre{
+    margin-left: 5px;
+    height: 24px;
+    top:2px;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+}
+.caja-interior-nombre p{
+    margin:0;
+}
+.caja-interior-fecha{
+    height: 24px;
+}
+.caja-interior-fecha p{
+    margin:0;
+    font-size: 16px;
+    color:black;
+    position:absolute;
+    bottom: -2px;
+    left: 60px;
+    color: rgb(18, 25, 95);
+}
